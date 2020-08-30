@@ -15,7 +15,7 @@ doc = false
 clap = "2.33.3"
 
 
-[dependencies.rosd_lib]
+[dependencies.rosd]
 version = "~0.1.0"
-path = "../rosd_lib"
+path = "../rosd"
 default-features = false

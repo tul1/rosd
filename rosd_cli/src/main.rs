@@ -2,7 +2,7 @@ mod cli;
 
 
 use clap::{ArgMatches};
-use rosd_lib::rosd_run;
+use rosd::rosd_run;
 
 
 fn main() {
