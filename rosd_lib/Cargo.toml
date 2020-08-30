@@ -1,0 +1,13 @@
+[package]
+name = "rosd_lib"
+version = "0.1.0"
+authors = ["patricio tula <tula.patricio@gmail.com>"]
+edition = "2018"
+description = ""
+readme = "README.md"
+documentation = "https://docs.rs/rosd/"
+repository = "https://github.com/tul1/rosd"
+keywords = ["ros", "roslaunch"]
+
+
+[dependencies]
