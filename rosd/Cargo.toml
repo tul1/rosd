@@ -2,8 +2,9 @@
 name = "rosd"
 version = "0.1.0"
 authors = ["patricio tula <tula.patricio@gmail.com>"]
+license = "MIT OR Apache-2.0"
 edition = "2018"
-description = ""
+description = "rosd is the most productive way to interact with roslaunch files in Rust because of its safe and composable abstractions over systemd."
 readme = "README.md"
 documentation = "https://docs.rs/rosd/"
 repository = "https://github.com/tul1/rosd"
