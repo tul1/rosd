@@ -1,6 +1,6 @@
-pub fn rosd_run() {
-    println!("Hello rosd");
-}
+mod ros_package
+mod systemd
+
 
 
 // pub(crate) mod rosd {
